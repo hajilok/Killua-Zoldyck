@@ -1,7 +1,7 @@
 {
   "APIs": {
-    "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "zenz": "https://api.lolhuman.xyz",
+    "apikey": "e3bd48a333828cd97356cf6e"
   },
   "options": {
     "autoRead": false,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapis",
-    "author": "https://zenzapis.xyz"
+    "packname": "Dielieger",
+    "author": "Dielieger"
   },
   "owner": [
-    "62812xxx"
+    "6283123047649"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Created By Dielieger"
 }
